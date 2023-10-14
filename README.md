@@ -17,16 +17,18 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 
 ### [Proyecto 1](https://github.com/JohannGaviria/Gallery)
 
-Este proyecto representa mi primer paso en el mundo del desarrollo web y la programación con Python. La Galería de Imágenes es una aplicación que permite a los usuarios cargar y gestionar sus imágenes personales en línea. A través de este proyecto, logré los siguientes hitos:
+**Galería de Imágenes**
 
-Mejoré mis habilidades en programación con Python y el uso del framework Flask para el desarrollo web.
-Implementé una base de datos MySQL para gestionar el almacenamiento y recuperación de imágenes de los usuarios.
-Diseñé una interfaz de usuario atractiva utilizando HTML, CSS y JavaScript para brindar una experiencia de usuario fluida.
+Este proyecto marcó mi iniciación en el mundo del desarrollo web y la programación con Python. Fue una experiencia de aprendizaje invaluable en la que logré los siguientes hitos:
 
-- **Objetivo:** Permitir que los usuarios suban sus imágenes para tenerlas en una galería personal.
-- **Logros Clave:** Durante este proyecto, mejoré mis habilidades en Python y Flask, y utilicé MySQL para gestionar la base de datos de imágenes. Además, diseñé la interfaz de usuario con HTML, CSS y JavaScript.
+- **Objetivo Principal:** Permitir a los usuarios subir sus imágenes y crear su propia galería en línea.
+- **Logros Clave:**
+  - Reforzamiento de mis habilidades en Python y Flask.
+  - Implementación de una base de datos MySQL para gestionar imágenes.
+  - Diseño de una interfaz de usuario atractiva con HTML, CSS y JavaScript.
 - **Tecnologías Utilizadas:** Python, Flask, MySQL, HTML, CSS, JavaScript.
 
+A pesar de su escala modesta, este proyecto sentó las bases para un aprendizaje continuo y fortaleció mi comprensión de Python y Flask.
 
 
 ### [Proyecto 2](enlace-al-repositorio)

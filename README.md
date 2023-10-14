@@ -15,8 +15,15 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 
 ## 💼 Proyectos Destacados
 
-### [Proyecto 1](enlace-al-repositorio)
-Descripción breve de tu primer proyecto. Destaca logros clave y tecnologías utilizadas.
+### [Proyecto 1](https://github.com/JohannGaviria/Gallery)
+
+[Descripción breve del primer proyecto]
+
+- **Objetivo:** Permitir que los usuarios suban sus imágenes para tenerlas en una galería personal.
+- **Logros Clave:** Durante este proyecto, mejoré mis habilidades en Python y Flask, y utilicé MySQL para gestionar la base de datos de imágenes. Además, diseñé la interfaz de usuario con HTML, CSS y JavaScript.
+- **Tecnologías Utilizadas:** Python, Flask, MySQL, HTML, CSS, JavaScript.
+
+
 
 ### [Proyecto 2](enlace-al-repositorio)
 Resalta tu segundo proyecto. Muestra su impacto y tecnologías involucradas.

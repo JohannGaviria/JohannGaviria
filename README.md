@@ -17,19 +17,16 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 
 ### [Proyecto 1](https://github.com/JohannGaviria/Gallery)
 
-**Galería de Imágenes**
+**GALLERY**
+"Gallery" es un proyecto diseñado para que los usuarios puedan cargar sus imágenes personales y acceder a las imágenes que han subido anteriormente. Con "Gallery", podran disfrutar de su propia colección de imágenes de manera sencilla y conveniente.
 
-Este proyecto marcó mi iniciación en el mundo del desarrollo web y la programación con Python. Fue una experiencia de aprendizaje invaluable en la que logré los siguientes hitos:
+Tecnologías Utilizadas:
 
-- **Objetivo Principal:** Permitir a los usuarios subir sus imágenes y crear su propia galería en línea.
-- **Logros Clave:**
-  - Reforzamiento de mis habilidades en Python y Flask.
-  - Implementación de una base de datos MySQL para gestionar imágenes.
-  - Diseño de una interfaz de usuario atractiva con HTML, CSS y JavaScript.
-- **Tecnologías Utilizadas:** Python, Flask, MySQL, HTML, CSS, JavaScript.
-
-A pesar de su escala modesta, este proyecto sentó las bases para un aprendizaje continuo y fortaleció mi comprensión de Python y Flask.
-
+Python: Utilizado para la lógica del servidor.
+Flask: Marco de desarrollo web de Python que facilita la creación de la aplicación web.
+MySQL: Sistema de gestión de bases de datos para almacenar información de usuarios y metadatos de imágenes.
+HTML y CSS: Utilizados para diseñar y dar estilo a la interfaz de usuario.
+JavaScript: Agregado para la interactividad y funcionalidades dinámicas en la galería.
 
 ### [Proyecto 2](enlace-al-repositorio)
 Resalta tu segundo proyecto. Muestra su impacto y tecnologías involucradas.

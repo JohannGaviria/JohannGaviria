@@ -20,13 +20,13 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 **GALLERY**
 "Gallery" es un proyecto diseñado para que los usuarios puedan cargar sus imágenes personales y acceder a las imágenes que han subido anteriormente. Con "Gallery", podran disfrutar de su propia colección de imágenes de manera sencilla y conveniente.
 
-Tecnologías Utilizadas:
+-**Tecnologías Utilizadas:**
 
-Python: Utilizado para la lógica del servidor.
-Flask: Marco de desarrollo web de Python que facilita la creación de la aplicación web.
-MySQL: Sistema de gestión de bases de datos para almacenar información de usuarios y metadatos de imágenes.
-HTML y CSS: Utilizados para diseñar y dar estilo a la interfaz de usuario.
-JavaScript: Agregado para la interactividad y funcionalidades dinámicas en la galería.
+-**Python:** Utilizado para la lógica del servidor.
+-**Flask:** Marco de desarrollo web de Python que facilita la creación de la aplicación web.
+-**MySQL:** Sistema de gestión de bases de datos para almacenar información de usuarios y metadatos de imágenes.
+-**HTML y CSS:** Utilizados para diseñar y dar estilo a la interfaz de usuario.
+-**JavaScript:** Agregado para la interactividad y funcionalidades dinámicas en la galería.
 
 ### [Proyecto 2](enlace-al-repositorio)
 Resalta tu segundo proyecto. Muestra su impacto y tecnologías involucradas.

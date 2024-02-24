@@ -15,27 +15,30 @@ Soy un apasionado desarrollador de software con experiencia en múltiples tecnol
 
 ## 💼 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/JohannGaviria/Gallery)
-
-**GALLERY**
+### [**Python-Flask-PostgreSQL-CRUD**](https://github.com/JohannGaviria/Python-Flask-PostgreSQL-CRUD)
 
 **Descripción:**
 
-"Gallery" es un proyecto diseñado para que los usuarios puedan cargar sus imágenes personales y acceder a las imágenes que han subido anteriormente. Con "Gallery", podran disfrutar de su propia colección de imágenes de manera sencilla y conveniente.
+CRUD de usuarios desarrollado con Python, Flask, PostgreSQL y JavaScript. La aplicación permite la gestión completa de usuarios, incluyendo la creación, visualización, actualización y eliminación de registros de usuarios en una base de datos PostgreSQL.
 
 - **Logros:**
-  - **Mejoré mis habilidades en programación con Python y el uso del framework Flask.** Durante el desarrollo de este proyecto, profundicé en la programación en Python y adquirí experiencia en el uso de Flask, lo que me permitió crear una aplicación web funcional y eficiente.
 
-  - **Implementé una base de datos MySQL para gestionar el almacenamiento y recuperación de imágenes de los usuarios.** Aprendí a diseñar y administrar una base de datos MySQL, lo que me permitió almacenar de manera segura las imágenes de los usuarios y recuperarlas de manera eficiente cuando sea necesario.
-
-  - **Diseñé una interfaz de usuario atractiva utilizando HTML, CSS y JavaScript para brindar una experiencia de usuario fluida.** Me sumergí en el diseño web, utilizando HTML para la estructura, CSS para el estilo y JavaScript para la interactividad, lo que resultó en una interfaz de usuario intuitiva y atractiva que mejoró la experiencia de los usuarios.
-
+  - **Operaciones CRUD Implementadas con Éxito**: Implementé operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en esta aplicación, demostrando mi sólida comprensión de la programación y mi capacidad para manipular datos en una base de datos relacional de manera efectiva.
+  
+  - **Enfoque en la Seguridad de Datos**: Me centré en la seguridad de los datos al implementar el cifrado de contraseñas con Cryptography, mostrando mi atención a los detalles y compromiso con la protección de la información sensible.
+  
+  - **Interfaz de Usuario Dinámica y Atractiva**: Utilicé JavaScript para crear una interfaz de usuario dinámica e interactiva, mejorando la experiencia del usuario y demostrando mi capacidad para crear interfaces modernas y atractivas.
+  
+  - **Gestión Eficaz de Dependencias y Configuración del Entorno**: Proporcioné una documentación clara y concisa para guiar a los usuarios en la instalación y configuración de la aplicación, demostrando mi capacidad para gestionar dependencias y entornos de desarrollo de manera efectiva.
+  
+  - **Experiencia en Tecnologías Actuales**: Mi experiencia con tecnologías como Flask, PostgreSQL, Bootstrap y Cryptography refleja mi compromiso con el aprendizaje continuo y mi capacidad para adaptarme a nuevas herramientas y tecnologías, manteniéndome actualizado con las últimas tendencias en desarrollo web.  
+  
 - **Tecnologías Utilizadas:**
   - **Python:** Utilizado para la lógica del servidor.
   - **Flask:** Marco de desarrollo web de Python que facilita la creación de la aplicación web.
-  - **MySQL:** Sistema de gestión de bases de datos para almacenar información de usuarios y metadatos de imágenes.
-  - **HTML y CSS:** Utilizados para diseñar y dar estilo a la interfaz de usuario.
-  - **JavaScript:** Agregado para la interactividad y funcionalidades dinámicas en la galería.
+  - **PostgreSQL:** Sistema de gestión de bases de datos para almacenar información de usuarios y metadatos de imágenes.
+  - **HTML y Bootswatch:** Utilizados para diseñar y dar estilo a la interfaz de usuario.
+  - **JavaScript:** Agregado para la interactividad y funcionalidades dinámicas.
 
 ### [Proyecto 2](enlace-al-repositorio)
 Resalta tu segundo proyecto. Muestra su impacto y tecnologías involucradas.
@@ -60,4 +63,3 @@ Si deseas colaborar en proyectos interesantes o simplemente charlar, no dudes en
 - Correo electrónico: johannmgr@gmail.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesante mi trabajo.
-

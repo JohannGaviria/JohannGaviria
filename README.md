@@ -18,7 +18,7 @@ Un CRUD de usuarios desarrollado con Python, Flask y PostgreSQL. Implementé ope
 
 ## 🌐 Enlaces
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin/in/johanngaviria)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/johanngaviria)
 
 ## 📈 Estadísticas de GitHub
 

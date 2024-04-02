@@ -1,26 +1,53 @@
-# Hola, soy Johann Gaviria 👋
+# Hola, soy Johann Gaviria <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
 
 Soy un apasionado desarrollador de software con un enfoque en el desarrollo web backend utilizando Python con django y Flask.
 
-## 🚀 Habilidades y Tecnologías
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Lenguajes
 
-- Backend:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
-    [![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
-    [![Django](https://img.shields.io/badge/Django-green)](https://www.djangoproject.com/)
-    [![Flask](https://img.shields.io/badge/Flask-blue)](https://flask.palletsprojects.com/)
-    
+## Habilidades
+
+- Frameworks:
+
+    - Backend:
+      
+      [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/5.0/)
+      [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+      
+## Tecnologias
+
 - Bases de Datos:
-  
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
-  [![SQLite](https://img.shields.io/badge/SQLite-blue)](https://www.sqlite.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-green)](https://www.mongodb.com/)
 
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+  [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
+## Herramientas
+
+- IDEs:
+
+  [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+  [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  
 - Otros:
 
-  [![Git](https://img.shields.io/badge/Git-orange)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-blue)](https://github.com/)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+
+## Conocimientos Adicionales
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://legacy.reactjs.org/docs/getting-started.html)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity.com/)
 
 ## 💼 Proyectos Destacados
 
@@ -50,7 +77,8 @@ Un CRUD de usuarios desarrollado con Python, Flask y PostgreSQL. Implementé ope
 
 ## 🌐 Enlaces
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/johanngaviria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/johanngaviria)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
 

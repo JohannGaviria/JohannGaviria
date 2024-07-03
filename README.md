@@ -59,7 +59,7 @@ Soy un desarrollador de software, con especialización en el desarrollo backend 
 
 ### [Python-Django-PostgreSQL-GestionLibros](https://github.com/JohannGaviria/Python-Django-PostgreSQL-GestionLibros)
 
-Una API REST desarrollada con Django y PostgreSQL que permite a los usuarios gestionar una biblioteca personal de libros. Los usuarios pueden realizar diversas operaciones, como agregar, eliminar, actualizar y buscar libros por título, autor o género. La API utiliza un sistema de autenticación basado en tokens para proteger los endpoints y garantizar que solo los usuarios autenticados puedan acceder a ciertos recursos.
+API REST desarrollada con Django y PostgreSQL que permite a los usuarios gestionar una biblioteca personal de libros. Los usuarios pueden realizar diversas operaciones, como agregar, eliminar, actualizar y buscar libros por título, autor o género. La API utiliza un sistema de autenticación basado en tokens para proteger los endpoints y garantizar que solo los usuarios autenticados puedan acceder a ciertos recursos.
 
 - **Tecnologias Utilizadas:**
   
@@ -67,18 +67,15 @@ Una API REST desarrollada con Django y PostgreSQL que permite a los usuarios ges
   [![Django](https://img.shields.io/badge/Django-5.0.3-green)](https://www.djangoproject.com/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
 
-### [Python-Flask-PostgreSQL-CRUD](https://github.com/JohannGaviria/Python-Flask-PostgreSQL-CRUD)
+### [Python-Django-PostgreSQL-Cancha](https://github.com/JohannGaviria/Python-Django-PostgreSQL-Cancha)
 
-Un CRUD de usuarios desarrollado con Python, Flask y PostgreSQL. Implementé operaciones CRUD (Crear, Leer, Actualizar, Eliminar), seguridad de datos y una interfaz de usuario dinámica.
+API REST desarrollada con Django y PostgreSQL que permite a los usuarios registrarse e iniciar sesión para filtrar canchas según varios parámetros, facilitando la búsqueda de una cancha que se adapte a sus necesidades. Una vez encontrada la cancha ideal, los usuarios pueden proceder a alquilarla. Además, tienen la posibilidad de consultar las reseñas de otros usuarios y dejar sus propias opiniones sobre las canchas. Los administradores cuentan con diversas funciones para gestionar la aplicación, como activar o desactivar cuentas de usuarios, crear, editar o eliminar canchas, gestionar reservas y eliminar reseñas inapropiadas.
 
-- **Tecnologías Utilizadas:**
+- **Tecnologias Utilizadas:**
   
-  [![Python](https://img.shields.io/badge/Python-3.12.2-blue)](https://www.python.org/)
-  [![Flask](https://img.shields.io/badge/Flask-2.1.0-blue)](https://flask.palletsprojects.com/)
+  [![Python](https://img.shields.io/badge/Python-3.12.2-yellow)](https://www.python.org/)
+  [![Django](https://img.shields.io/badge/Django-5.0.3-green)](https://www.djangoproject.com/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
-  [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://www.w3.org/TR/html52/)
-  [![Bootswatch](https://img.shields.io/badge/Bootswatch-5.1.3-blueviolet)](https://bootswatch.com/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📈 Estadísticas de GitHub
 

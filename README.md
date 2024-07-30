@@ -77,6 +77,16 @@ API REST desarrollada con Django y PostgreSQL que permite a los usuarios registr
   [![Django](https://img.shields.io/badge/Django-5.0.3-green)](https://www.djangoproject.com/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
 
+### [Python-Django-PostgreSQL-Galeria](https://github.com/JohannGaviria/Python-Django-PostgreSQL-Galeria)
+
+API REST desarrollada con Django y PostgreSQL que permite a los usuarios gestionar una galería de imágenes e interactuar con las imágenes publicadas por otros usuarios. Las funcionalidades incluyen la capacidad de dar "likes" a las imágenes y dejar comentarios, fomentando la interacción y la participación dentro de la comunidad.
+
+- **Tecnologias Utilizadas:**
+  
+  [![Python](https://img.shields.io/badge/Python-3.12.2-yellow)](https://www.python.org/)
+  [![Django](https://img.shields.io/badge/Django-5.0.3-green)](https://www.djangoproject.com/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
+
 ## 📈 Estadísticas de GitHub
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannGaviria&layout=compact&theme=dark)

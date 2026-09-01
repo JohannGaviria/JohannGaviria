@@ -10,44 +10,35 @@ Soy una persona curiosa y comprometida, siempre buscando aprender, mejorar y asu
 
 ## 💻 Tecnologías
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/doc/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)](https://docs.djangoproject.com/)
-[![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge\&logo=django\&logoColor=white)](https://www.django-rest-framework.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.w3schools.com/sql/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/docs/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)](https://redis.io/docs/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)](https://docs.sqlalchemy.org/)
-[![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge\&logo=alembic\&logoColor=white)](https://alembic.sqlalchemy.org/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)](https://docs.pydantic.dev/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://docs.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://docs.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)](https://docs.github.com/en/actions)
-[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)](https://docs.pytest.org/)
-[![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge\&logo=poetry\&logoColor=white)](https://python-poetry.org/docs/)
-[![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge\&logo=ruff\&logoColor=black)](https://docs.astral.sh/ruff/)
-[![Mypy](https://img.shields.io/badge/Mypy-1674B1?style=for-the-badge\&logo=python\&logoColor=white)](https://mypy.readthedocs.io/)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=api\&logoColor=white)](https://restfulapi.net/)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)](https://swagger.io/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=json-web-tokens\&logoColor=white)](https://jwt.io/)
-[![Structlog](https://img.shields.io/badge/Structlog-000000?style=for-the-badge\&logo=python\&logoColor=white)](https://www.structlog.org/)
+### 🐍 Backend & Lenguajes
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/DRF-a31d1d?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 
+### 🗄️ Bases de Datos & ORM
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Alembic](https://img.shields.io/badge/Alembic-6B7280?style=for-the-badge&logo=python&logoColor=white)](https://alembic.sqlalchemy.org/)
 
-## 📚 Conocimientos Adicionales
+### ⚙️ DevOps, Herramientas & Arquitectura
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![REST API](https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/docs.php)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)](https://dotnet.microsoft.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://docs.oracle.com/en/java/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://dev.mysql.com/doc/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/docs.html)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)](https://docs.unity.com/)
-
+### 🧪 Testing, Calidad & Tooling
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)](https://python-poetry.org/)
+[![Ruff](https://img.shields.io/badge/Ruff-D7FF00?style=for-the-badge&logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
+[![Mypy](https://img.shields.io/badge/Mypy-2F5687?style=for-the-badge&logo=python&logoColor=white)](https://mypy-lang.org/)
+[![Structlog](https://img.shields.io/badge/Structlog-000000?style=for-the-badge&logo=python&logoColor=white)](#)
 
 ## 🚀 Proyectos Destacados
 

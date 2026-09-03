@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Johann Gaviria - Software Developer" width="100%">
 </p>
 
-Soy desarrollador de software con enfoque en **backend** y alrededor de tres años de experiencia en desarrollo. Me apasiona crear soluciones a través del código, desde convertir una idea en algo funcional hasta enfrentar esos problemas que parecen no tener solución y finalmente encontrarles la vuelta.
+Soy desarrollador de software con enfoque en **backend** con **Python**. Me apasiona crear soluciones a través del código, desde convertir una idea en algo funcional hasta enfrentar esos problemas que parecen no tener solución y finalmente encontrarles la vuelta.
 
 A lo largo de este camino he participado en diferentes proyectos colaborativos, fortaleciendo tanto mis habilidades técnicas como mi capacidad para trabajar en equipo. Aunque comencé explorando también el frontend, encontré mi lugar en el backend, donde disfruto especialmente trabajar con la lógica, la arquitectura y la construcción de sistemas.
 
